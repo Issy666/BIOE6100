@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/main.aux": true,
+        "**/main.log": true,
+        "**/main.gz": true,
+        "**/main.out": true,
+        "**/main copy.aux": true,
+        "**/main copy.log": true,
+        "**/main copy.gz": true,
+        "**/main copy.out": true,
+        "**/main_copy.aux": true,
+        "**/main_copy.log": true,
+        "**/main_copy.gz": true,
+        "**/main_copy.out": true
+    }
+}
